@@ -1,7 +1,3 @@
-Here's the updated README with placeholders for four images:
-
----
-
 # 🌐 Mastering Graph Neural Networks: GNN Types, Tasks, and Top Models 🚀
 
 Welcome to the **Mastering Graph Neural Networks (GNNs)** repository! This project is dedicated to exploring the fascinating world of GNNs, covering everything from foundational concepts to advanced models and applications.
@@ -25,16 +21,16 @@ In this repository, you'll find comprehensive insights into GNNs, including:
 
 ## 📸 Visuals
 
-![Introduction to GNNs](images/gnn_intro.png)  <!-- Replace with your own image path -->
+![Introduction to GNNs](1.png)  <!-- Replace with your own image path -->
 *Understanding the basics of GNNs and graph data structures.*
 
-![GNN Computational Graph](images/gnn_computational_graph.png)  <!-- Replace with your own image path -->
+![GNN Computational Graph](2.png)  <!-- Replace with your own image path -->
 *How GNNs use computational graphs to process information.*
 
-![GNN Types and Tasks](images/gnn_types_tasks.png)  <!-- Replace with your own image path -->
+![GNN Types and Tasks](3.png)  <!-- Replace with your own image path -->
 *Different types of learning tasks performed using GNNs.*
 
-![Top GNN Models](images/top_gnn_models.png)  <!-- Replace with your own image path -->
+![Top GNN Models](4.png)  <!-- Replace with your own image path -->
 *Overview of prominent GNN models like GCN, GAT, and GraphSAGE.*
 
 ## 🚀 Getting Started
