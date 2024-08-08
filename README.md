@@ -63,7 +63,3 @@ We welcome contributions to enhance this repository! Please refer to our [contri
 ## 📝 License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
----
-
-Replace the placeholder image paths (`images/gnn_intro.png`, `images/gnn_computational_graph.png`, `images/gnn_types_tasks.png`, and `images/top_gnn_models.png`) with the actual paths to your images in the repository.
